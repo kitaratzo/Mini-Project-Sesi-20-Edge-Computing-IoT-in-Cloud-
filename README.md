@@ -2,6 +2,9 @@ Mini Project Sesi 20 - Edge Computing & IoT in Cloud
 
 Chandra Insan Prasetyo
 
+Wokwi Project
+https://wokwi.com/projects/438544522326021121
+
 Implementasi publisher dan subscriber dengan menggunakan broker HiveMQ (ataupun Wokwi)
 <img width="799" height="162" alt="image" src="https://github.com/user-attachments/assets/51b0a5de-f3e2-4bd0-bd46-f67d8e474488" />
 
