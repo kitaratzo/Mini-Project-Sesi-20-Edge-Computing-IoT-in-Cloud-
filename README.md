@@ -5,6 +5,11 @@ Chandra Insan Prasetyo
 Wokwi Project
 https://wokwi.com/projects/438544522326021121
 
+Project untuk memonitoring suhu ruangan
+1.	Jika suhu ruangan kurang dari 20 derajat maka LED berwara biru.
+2.	Jika suhu ruangan antara lebih dari 20 derajat dan kurang dari 35 derajat LED berwarna kuning.
+3.	Namun jika suhu ruangan lebih dari 35 derajat LED berwarna merah dan alarm berbunyi.
+
 Implementasi publisher dan subscriber dengan menggunakan broker HiveMQ (ataupun Wokwi)
 <img width="799" height="162" alt="image" src="https://github.com/user-attachments/assets/51b0a5de-f3e2-4bd0-bd46-f67d8e474488" />
 
